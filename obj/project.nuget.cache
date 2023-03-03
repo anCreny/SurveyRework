@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxJrcflJYN9i99zNNWz+Egk5zo6GpGYX7Wl952hf8tYE40Puf4gv7xiQ4v/eGP0i3BohedIlEoCoXD8U3d7cVQ==",
+  "success": true,
+  "projectFilePath": "/home/creny/Git/SurveyRework/SurveyRework.csproj",
+  "expectedPackageFiles": [
+    "/home/creny/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
